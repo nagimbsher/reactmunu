@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactmunu/static/css/main.78017551.css",
+    "main.js": "/reactmunu/static/js/main.05b052a4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactmunu/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/reactmunu/index.html",
+    "main.78017551.css.map": "/reactmunu/static/css/main.78017551.css.map",
+    "main.05b052a4.js.map": "/reactmunu/static/js/main.05b052a4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactmunu/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78017551.css",
+    "static/js/main.05b052a4.js"
+  ]
+}
